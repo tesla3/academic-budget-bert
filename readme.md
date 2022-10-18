@@ -4,4 +4,4 @@
 
 * compare to Dinkytrain
     * it s faster than DinkyTrain (4096 samples took 10-11 seconds, which translates to ~400samples/s)
-    * note: DinkyTrain does not have apex and deeplearning.
+    * note: For DinkyTrain, I did not install apex and deeplearning.
